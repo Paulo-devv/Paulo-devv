@@ -9,9 +9,8 @@ Vamos conectar e trocar ideias! Estou sempre aberto a novas oportunidades e cola
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-lima-201007289)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-## Sobre Mim
 
-![Paulo-devv GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-devv&show_icons=true&theme=merko)
+![Paulo-devv GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-devv&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu mais utilizo no dia a dia
 
